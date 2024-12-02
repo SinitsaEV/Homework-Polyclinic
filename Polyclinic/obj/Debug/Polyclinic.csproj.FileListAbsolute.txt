@@ -1,0 +1,7 @@
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe.config
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\Polyclinic\Polyclinic\bin\Debug\Polyclinic.pdb
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.AssemblyReference.cache
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.CoreCompileInputs.cache
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\Polyclinic\Polyclinic\obj\Debug\Polyclinic.exe
+C:\Users\Courses\Desktop\Course\C#_Junior\BasicsOfProgramming\Polyclinic\Polyclinic\obj\Debug\Polyclinic.pdb
