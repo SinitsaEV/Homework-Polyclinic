@@ -11,17 +11,17 @@ namespace Polyclinic
 
             int numberOfPatients;
             int timeOfReceptionInMinutes = 10;
-            int hourInQueue;
-            int minuteInQueue;
+            int hoursInQueue;
+            int minutesInQueue;
             int hourInMinutes = 60;
 
             Console.Write(" Введите количество пациентов в очереди: ");
             numberOfPatients = Convert.ToInt32(Console.ReadLine());
 
-            hourInQueue = timeOfReceptionInMinutes * numberOfPatients / hourInMinutes;
-            minuteInQueue = timeOfReceptionInMinutes * numberOfPatients % hourInMinutes;
+            hoursInQueue = timeOfReceptionInMinutes * numberOfPatients / hourInMinutes;
+            minutesInQueue = timeOfReceptionInMinutes * numberOfPatients % hourInMinutes;
 
-            Console.WriteLine($" Вы должны отстоять в очереди {hourInQueue} час(а) и {minuteInQueue} минут. ");
+            Console.WriteLine($" Вы должны отстоять в очереди {hoursInQueue} час(а) и {minutesInQueue} минут. ");
         }
     }
 }
